@@ -1,5 +1,4 @@
 # Django-Mpesa-Intergration
-Django Mpesa Apis
 
 Django Mpesa Apis M-Pesa is a mobile phone-based money transfer, financing and microfinancing service, launched in 2007 by Vodafone for Safaricom and Vodacom the largest mobile network operators in Kenya and Tanzania.
 
